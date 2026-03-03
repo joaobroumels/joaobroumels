@@ -64,3 +64,26 @@ Me chamo João Manoel Sousa Broumels, tenho 20 anos e sou natural de Goiás. Sou
 
 <br/>
 <br/>
+
+---
+
+## 🚀 Projetos
+
+### 📌 Client CRUD API
+
+API REST desenvolvida com Java e Spring Boot para gerenciamento de clientes.
+
+🔹 Funcionalidades:
+- Busca paginada de clientes
+- Busca por ID
+- Inserção de cliente
+- Atualização de cliente
+- Remoção de cliente
+- Validação de dados
+- Tratamento de exceções (404 e 422)
+
+🔹 Tecnologias:
+Java • Spring Boot • JPA • H2 • Maven • Validation
+
+🔗 Repositório:
+👉 https://github.com/joaobroumels/clientcrud
