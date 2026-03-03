@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Me chamo João Manoel Sousa Broumels, tenho 20 anos e sou natural de Goiás. Sou estudante de Engenharia de Software com foco em desenvolvimento back-end utilizando Java e Spring Boot. Desenvolvo APIs REST aplicando boas práticas como arquitetura em camadas, validação de dados e tratamento de exceções.Atualmente construindo projetos para aprimorar habilidades em desenvolvimento backend e consolidar fundamentos de engenharia de software.
+Me chamo João Manoel Sousa Broumels, tenho 20 anos e sou natural de Goiás. Sou estudante de Engenharia de Software com foco em desenvolvimento back-end utilizando Java e Spring Boot. Desenvolvo APIs REST aplicando boas práticas como arquitetura em camadas, validação de dados e tratamento de exceções. Atualmente construindo projetos para aprimorar habilidades em desenvolvimento backend e consolidar fundamentos de engenharia de software.
 
 ---
 
